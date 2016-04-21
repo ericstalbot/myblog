@@ -7,7 +7,7 @@ Why Another Web Map?
 .. comments::
 
 
-I recently launched my new web map at ericstalbot.pythonanywhere.com. 
+I recently launched my new web map at http://ericstalbot.pythonanywhere.com/. 
 I'm pretty excited about it, but why do we need another web map
 when the internet already has so many very good ones?
 
